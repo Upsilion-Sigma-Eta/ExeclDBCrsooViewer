@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExcelDBCrossViewer/1.0.0": {
+        "runtime": {
+          "ExcelDBCrossViewer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExcelDBCrossViewer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

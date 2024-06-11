@@ -19,3 +19,17 @@ C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCr
 C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCrossViewer\obj\Debug\net8.0-windows\ExcelDBCrossViewer.pdb
 C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCrossViewer\obj\Debug\net8.0-windows\ExcelDBCrossViewer.genruntimeconfig.cache
 C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCrossViewer\obj\Debug\net8.0-windows\ref\ExcelDBCrossViewer.dll
+C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCrossViewer\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCrossViewer\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCrossViewer\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCrossViewer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCrossViewer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCrossViewer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCrossViewer\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCrossViewer\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCrossViewer\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCrossViewer\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCrossViewer\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCrossViewer\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCrossViewer\obj\Debug\net8.0-windows\ExcelDBCrossViewer.csproj.AssemblyReference.cache
+C:\Users\USER\# Library\Programming\ExcelDBCrossViewer\Source\Solution\ExcelDBCrossViewer\obj\Debug\net8.0-windows\ExcelDBCrossViewer.csproj.CopyComplete

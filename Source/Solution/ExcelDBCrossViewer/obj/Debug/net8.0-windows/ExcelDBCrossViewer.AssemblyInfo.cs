@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExcelDBCrossViewer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73ee797d5050e495d0337122bade2ad71ed58428")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExcelDBCrossViewer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExcelDBCrossViewer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
